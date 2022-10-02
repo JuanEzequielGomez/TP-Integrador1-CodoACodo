@@ -18,17 +18,8 @@ body{
     position: relative;
     top:56px;
 }
-.text-platzi {
+.text-nav-compra {
     color: #97c93e !important;
-  }
-  
-  .btn-platzi {
-    background-color: #97c93e;
-    color: white;
-  }
-  
-  .btn-platzi:hover {
-    background-color: #82ad36;
   }
   
   #header img {
@@ -63,6 +54,7 @@ body{
     place-content: center;
     gap: 30px;
   }
+
   #speakers .card-body{
     display: grid;
     grid-template-columns: auto;
@@ -71,7 +63,7 @@ body{
   .modal .modal-content{
     width: 390px;
   }
-  
+
   #footer {
     background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
   }
